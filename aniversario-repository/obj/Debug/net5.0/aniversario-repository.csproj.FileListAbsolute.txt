@@ -1,0 +1,12 @@
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\bin\Debug\net5.0\aniversario-repository.deps.json
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\bin\Debug\net5.0\aniversario-repository.dll
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\bin\Debug\net5.0\ref\aniversario-repository.dll
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\bin\Debug\net5.0\aniversario-repository.pdb
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\obj\Debug\net5.0\aniversario-repository.csprojAssemblyReference.cache
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\obj\Debug\net5.0\aniversario-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\obj\Debug\net5.0\aniversario-repository.AssemblyInfoInputs.cache
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\obj\Debug\net5.0\aniversario-repository.AssemblyInfo.cs
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\obj\Debug\net5.0\aniversario-repository.csproj.CoreCompileInputs.cache
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\obj\Debug\net5.0\aniversario-repository.dll
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\obj\Debug\net5.0\ref\aniversario-repository.dll
+C:\Users\juncal\RiderProjects\AssessmentRafael\aniversario-repository\obj\Debug\net5.0\aniversario-repository.pdb

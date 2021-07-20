@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQz08RqFI8JNdC6Gz0VoB3D0gVINvqNdqXQRPCDBQubD/wWlUyowVccnzag7guIdScFMMvNK61e/uCE1Pnzebg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juncal\\RiderProjects\\AssessmentRafael\\AssessmentRafael\\AssessmentRafael.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juncal\\.nuget\\packages\\npgsql\\6.0.0-preview4\\npgsql.6.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\juncal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
